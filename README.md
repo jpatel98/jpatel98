@@ -54,7 +54,7 @@
 
 ### myStats 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2047%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -66,13 +66,10 @@ CSS                      12 mins             ███░░░░░░░░�
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
 
-
-
 💻 Operating System: 
 Linux                    1 hr 21 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/05/2022 19:11:43 UTC
 <!--END_SECTION:waka-->
