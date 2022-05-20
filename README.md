@@ -8,8 +8,7 @@
 <p align="center"> 
   <img align="center" src="404.gif" width="350">
 </p>
-I'm a software developer with a profound interest in full stack development, ML, decentralized technologies and everything computers💻.<br> 
-I like to build new things, troubleshoot challenges and contribute.
+I'm a software developer with a profound interest in full stack development, ML, decentralized technologies and everything in between💻.<br> I like to build new things, troubleshoot challenges and contribute to open source projects. I'm focused on being a valuable part of any team I am on and believe in the team rising together.
 
 ## Let's Connect 🔗
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/jigar-patel-b0012912b/)
@@ -45,7 +44,7 @@ I like to build new things, troubleshoot challenges and contribute.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-## Some Stats 📊
+## myStats 📊
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2033%20mins-blue)
 
