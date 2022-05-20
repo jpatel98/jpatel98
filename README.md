@@ -8,7 +8,7 @@
 <p align="center"> 
   <img align="center" src="404.gif" width="350">
 </p>
-<p>I'm a software developer with a profound interest in full stack development, ML, decentralized technologies and everything in between💻. I like to build new things, troubleshoot challenges and contribute to open source projects.</p>
+<p>I'm a software developer with a profound interest in full stack development, ML, decentralized technologies and everything in between💻. I like to build new things, troubleshoot challenges and contribute.</p>
 
 ---
 
