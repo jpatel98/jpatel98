@@ -45,7 +45,7 @@ I like to build new things, troubleshoot challenges and contribute.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-## Top Languages 👨‍💻 
+## Some Stats 📊
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2033%20mins-blue)
 
@@ -58,6 +58,8 @@ HTML                     28 mins             ████████░░░�
 CSS                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
+
+<br>
 
 💻 Operating System: 
 Linux                    1 hr 21 mins        █████████████████████████   100.0%
