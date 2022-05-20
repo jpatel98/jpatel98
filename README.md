@@ -8,18 +8,18 @@
 <p align="center"> 
   <img align="center" src="404.gif" width="350">
 </p>
-I'm a software developer with a profound interest in full stack development, ML, decentralized technologies and everything in between💻.<br> I like to build new things, troubleshoot challenges and contribute to open source projects.
+<p>I'm a software developer with a profound interest in full stack development, ML, decentralized technologies and everything in between💻. I like to build new things, troubleshoot challenges and contribute to open source projects.</p>
 
 ---
 
-## Let's Connect 🔗
+### Let's Connect 🔗
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/jigar-patel-b0012912b/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/jpxtel7)
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jpatel98)
 
 ---
 
-## Tech Stack 🚀
+### Tech Stack 🚀
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -38,7 +38,7 @@ I'm a software developer with a profound interest in full stack development, ML,
 
 ---
 
-## Tools I Use 🛠️ 
+### Tools I Use 🛠️ 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -52,7 +52,7 @@ I'm a software developer with a profound interest in full stack development, ML,
 
 ---
 
-## myStats 📊
+### myStats 📊
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2033%20mins-blue)
 
