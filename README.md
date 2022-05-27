@@ -70,6 +70,6 @@ XML                      0 secs              ░░░░░░░░░░░�
 Linux                    9 hrs 6 mins        █████████████████████████   100.0%
 
 ```
-
-
 <!--END_SECTION:waka-->
+
+<a href="https://app.daily.dev/jpxtel7"><img src="https://api.daily.dev/devcards/6a45886c73df45159ff5276f5263950a.png?r=e2m" width="400" alt="Jigar Patel's Dev Card"/></a>
