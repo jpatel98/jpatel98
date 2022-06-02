@@ -8,7 +8,7 @@
 <p align="center"> 
   <img align="center" src="404.gif" width="350">
 </p>
-<p>I'm a developer with a profound interest in full stack development, AI, ML and everything in between💻. I like to build things, troubleshoot challenges and collaborate.</p>
+<p>I'm a budding developer with a profound interest in full stack development, AI, ML and everything in between💻. I like to build things, troubleshoot challenges and collaborate.</p>
 
 ---
 
